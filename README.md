@@ -1,7 +1,6 @@
 ## Edyta Wrobel
 
-A former project manager, Women in Tech scholar at Thoughtworks and Makers Academy, learning how to code. An advocate of positive social change through the smart and responsible use of technology, therefore, looking for a role in environemnt that cares about it as much as I do.
-
+A former project manager, Women in Tech scholar at Thoughtworks and Makers Academy, learning how to code. An advocate of positive social change through the smart and responsible use of technology, therefore, looking for a role in the environment of the like-mided individuals.
 ## Skills
 
 #### Project Management
