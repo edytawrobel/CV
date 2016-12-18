@@ -58,3 +58,5 @@ Health and wellbeing.
 Wearable technology.
 Positive social change.
 
+## Words I stand by: 
+“Be brave. Take risks. Nothing can substitute experience.”
