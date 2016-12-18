@@ -32,6 +32,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+#### Code First Girls (Oct 2015 to April 2016)
+
+- Introduction to web development
+- HTML, CSS, some JS, Bootstrap and Python/Flask
+- team player
+- creative thinker
+
+
 #### University of Portsmouth (Sep 2012 to Sep 2013)
 
 - Translation and Technical Communication
