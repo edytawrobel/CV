@@ -1,10 +1,10 @@
-## Your Name
+## Edyta Wrobel
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A former project manager, Women in Tech scholar at Thoughtworks and Makers Academy, learning how to code. An advocate of positive social change through the smart and responsible use of technology, therefore, looking for a role in environemnt that cares about it as much as I do.
 
 ## Skills
 
-#### This Skill
+#### Project Management
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Dec 2016 to March 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Portsmouth (Sep 2012 to Sep 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Translation and Technical Communication
+- Except for the linguistic skills, the most important skill I took from the course was the use of modern technology in the translation industry. 
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Sandberg Translation Partners** (Jun 2013 to Dec 2016)    
+*Project Manager*  
+**MOOSE, the Foreign Language Centre** (start_date to end_date)   
+*English Tutor - contractor*  
+
+## Interests
+Health and wellbeing.
+Wearable technology.
+Positive social change.
+
