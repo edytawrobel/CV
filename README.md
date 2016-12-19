@@ -3,17 +3,17 @@
 A former project manager, Women in Tech scholar at Thoughtworks and Makers Academy, learning how to code. An advocate of positive social change through the smart and responsible use of technology, therefore, looking for a role in the environment of the like-mided individuals.
 ## Skills
 
-#### Project Management
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Being able to effectively communicate with the clients and other stakeholders, meant you could achieve much more during the shorter amount of time thanks to trust you gained while developing the relationships.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Communication
+#### Organisanion
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Having worked as a project manager for three years, organisation and time management were the essential skills of my every day responsibilities.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
