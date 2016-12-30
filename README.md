@@ -5,7 +5,7 @@ A former project manager, Women in Tech scholar at Thoughtworks and Makers Acade
 
 #### Communication
 
-Being able to effectively communicate with the clients and other stakeholders, meant you could achieve much more during the shorter amount of time thanks to trust you gained while developing the relationships.
+Being able to effectively communicate with the clients and other stakeholders, means I can achieve much more during the shorter amount of time thanks to trust I gained while developing the relationships.
 
 - Experience
 - Achievements
@@ -13,7 +13,7 @@ Being able to effectively communicate with the clients and other stakeholders, m
 
 #### Organisanion
 
-Having worked as a project manager for three years, organisation and time management were the essential skills of my every day responsibilities.
+Having worked as a project manager for three years, organisation and time management were the essential skills I developed to the top level over that period. 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -42,7 +42,7 @@ Having worked as a project manager for three years, organisation and time manage
 #### University of Portsmouth (Sep 2012 to Sep 2013)
 
 - Translation and Technical Communication
-- Except for the linguistic skills, the most important skill I took from the course was the use of modern technology in the translation industry. 
+- Except for the linguistic skills, I developed the appreciation towards modern technology in the translation industry. 
 
 #### Any other qualifications
 
