@@ -15,7 +15,7 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 * Ruby on Rails, RSpec-Capybara, Active Record, Devise, Paperclip, Factory Girl, AWS S3
 
 
-#### Name2 | [repo](https://github.com/edytawrobel/thermostat_app) | [heroku] (https://thermostat-app-edawu.herokuapp.com/)
+#### Thermostat | [repo](https://github.com/edytawrobel/thermostat_app) | [heroku] (https://thermostat-app-edawu.herokuapp.com/)
 * simple thermostat app
 * JavaScript, jQuery, HTML, CSS, Sinatra, Heroku
 
