@@ -8,14 +8,16 @@ A former project manager, Women in Tech scholar at Thoughtworks and Makers Acade
 
 Before and during Makers Academy I have worked on [around 30 projects](https://github.com/edytawrobel?tab=repositories) independently and collaboratively, some completed under very tight time constraints. Here are some code examples:
 
-#### Name1 | [repo](https://github.com/edytawrobel/name1) | [heroku](http://name1.herokuapp.com/)
-* 
-* 
-* 
+
+#### Coffeegram | [repo](https://github.com/edytawrobel/instagram-challenge) | [heroku](http://localhost:3000/photos)
+* an Instagram clone that provides a platform for users to post and comment on photos of their favourite coffee places
+* completed within 2 days
+* Ruby on Rails, RSpec-Capybara, Active Record, Devise, Paperclip, Factory Girl, AWS S3
+
 
 #### Name2 | [repo](https://github.com/edytawrobel/name2)
-* 
-* 
+*
+*
 
 ## Technical Skills
 | Start date | Specialisations                                            |
@@ -43,7 +45,7 @@ Being able to effectively communicate with the clients and other stakeholders, m
 
 #### Organisation
 
-Having worked as a project manager for three years, organisation and time management were the essential skills I developed to the top level over that period. 
+Having worked as a project manager for three years, organisation and time management were the essential skills I developed to the top level over that period.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -52,7 +54,7 @@ Having worked as a project manager for three years, organisation and time manage
 
 #### Methodical
 
-* Precision and attention to detail is the skill I have developed during my linguistic career, and honed to perfection during three months at Makers Academy where it proved a highly valuable skill, since following a procedure while solving coding problems or debugging makes it a less frustrating task. 
+* Precision and attention to detail is the skill I have developed during my linguistic career, and honed to perfection during three months at Makers Academy where it proved a highly valuable skill, since following a procedure while solving coding problems or debugging makes it a less frustrating task.
 
 ## Education
 
@@ -79,12 +81,12 @@ _Intensive coding bootcamp_
 #### University of Portsmouth (Sep 2012 to Sep 2013)
 
 * Translation and Technical Communication
-* Except for the linguistic skills, I developed the appreciation towards modern technology in the translation industry. 
+* Except for the linguistic skills, I developed the appreciation towards modern technology in the translation industry.
 
 
 #### Any other qualifications
 
-* Languages: Polish, German, English 
+* Languages: Polish, German, English
 
 ## Experience
 
@@ -101,6 +103,6 @@ _Intensive coding bootcamp_
 * Positive social change, Tech for Good.
 
 
-## Words I stand by: 
+## Words I stand by:
 
 * "Be brave. Take risks. Nothing can substitute experience."
