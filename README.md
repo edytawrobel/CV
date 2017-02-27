@@ -76,7 +76,7 @@ _Intensive coding bootcamp_
 * Introduction to web development
 * HTML, CSS, some JS, Bootstrap and Python/Flask
 * team player, creative thinker
-* Final project: Ringlo [Github](https://github.com/edytawrobel/Ringlo2
+* Final project: Ringlo [Github](https://github.com/edytawrobel/Ringlo2)
 
 #### University of Portsmouth (Sep 2012 to Sep 2013)
 
