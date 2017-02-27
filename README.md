@@ -9,7 +9,7 @@ A former project manager, Women in Tech scholar at Thoughtworks and Makers Acade
 Before and during Makers Academy I have worked on [around 30 projects](https://github.com/edytawrobel?tab=repositories) independently and collaboratively, some completed under very tight time constraints. Here are some code examples:
 
 
-#### Coffeegram | [repo](https://github.com/edytawrobel/instagram-challenge) | [heroku](http://localhost:3000/photos)
+#### Coffeegram | [repo](https://github.com/edytawrobel/instagram-challenge) | [heroku](https://coffeegrambyedyta.herokuapp.com/)
 * an Instagram clone that provides a platform for users to post and comment on photos of their favourite coffee places
 * completed within 2 days
 * Ruby on Rails, RSpec-Capybara, Active Record, Devise, Paperclip, Factory Girl, AWS S3
