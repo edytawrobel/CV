@@ -19,14 +19,18 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 * simple thermostat app
 * JavaScript, jQuery, HTML, CSS, Sinatra, Heroku
 
+#### Majordomo | [repo](https://github.com/edytawrobel/majordomo) | [heroku] (https://majordomo-makers.herokuapp.com/)
+* A room booking app for the workplace
+* Ruby on Rails, PostgreSQL, JS(jQuery), HTML(haml), Rspec-rails, Capybara, Bootstrap, SimpleCalendar, Datetimepicker
+
 ## Technical Skills
 | Start date | Specialisations                                            |
 |:----------|:-----------------------------------------------------------|
-| 2017      | Ruby, Rspec, Sinatra, Rails                                                       |
+| 2017      | Ruby, Rspec, Rails, Capybara, Active Record                                 |
 | 2017      | TDD, BDD                                                   |
-| 2017      | Heroku                                                     |
-| 2017      | Javascript, Jasmine                                                 |
-| 2017      | jQuery                                                     |
+| 2017      | Heroku, AWS S3, Paperclip, Devise                                                   |
+| 2017      | Javascript, Jasmine, jQuery                                                  |
+| 2017      | Sinatra, PostgreSQL                                                |
 | 2015      | Python, Flask, Tweepi, Requests           |
 | 2015      | HTML, CSS                                                  |
 | 2015      | Bootstrap, Responsive Design                       |
@@ -34,6 +38,10 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 
 
 ## Skills
+
+#### Methodical
+
+* Precision and attention to detail is the skill I have developed during my linguistic career, and honed to perfection during three months at Makers Academy where it proved a highly valuable skill, since following a procedure while solving coding problems or debugging makes it a less frustrating task.
 
 #### Communication
 
@@ -43,18 +51,14 @@ Being able to effectively communicate with the clients and other stakeholders, m
 - Achievements
 - Evidence
 
-#### Organisation
+#### Organisation and focus
 
-Having worked as a project manager for three years, organisation and time management were the essential skills I developed to the top level over that period.
+Having worked as a project manager for three years, organisation and time management were the essential skills I developed to the top level over that period. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Methodical
-
-* Precision and attention to detail is the skill I have developed during my linguistic career, and honed to perfection during three months at Makers Academy where it proved a highly valuable skill, since following a procedure while solving coding problems or debugging makes it a less frustrating task.
+- Advanced in the role only within a year
+- Maintain good client/supplier relationships through meetings, phone catch-ups and email 
+- Maintain the company database and other data (Translation Memories, instructions, etc.)
+- Optimal use of the translation technologies to maximize the profit margins
 
 ## Education
 
@@ -67,8 +71,8 @@ _Intensive coding bootcamp_
 * OOD and SOLID
 * Pair-programming, teamwork and Agile development
 * RESTful APIs
-* Technologies used: Ruby, Rails, JavaScript, Node.js, AngularJS, HTML/CSS, Sass, Postgres, DataMapper, Active Record, Java
-* Testing frameworks: RSpec, Capybara, Jasmine, Karma, Protractor, JUnit
+* Technologies used: Ruby, Rails, JavaScript, HTML/CSS, Sass, Postgres, DataMapper, Active Record
+* Testing frameworks: RSpec, Capybara, Jasmine
 
 
 #### Code First Girls (Oct 2015 to April 2016)
