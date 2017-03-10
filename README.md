@@ -41,15 +41,11 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 
 #### Methodical
 
-* Precision and attention to detail is the skill I have developed during my linguistic career, and honed to perfection during three months at Makers Academy where it proved a highly valuable skill, since following a procedure while solving coding problems or debugging makes it a less frustrating task.
+Precision and attention to detail is the skill I have developed during my linguistic career, and honed to perfection during three months at Makers Academy where it proved a highly valuable skill, since following a procedure while solving coding problems or debugging makes it a less frustrating task.
 
-#### Communication
+#### Empathic
 
-Being able to effectively communicate with the clients and other stakeholders, means I can achieve much more during the shorter amount of time thanks to trust I gained while developing the relationships.
-
-- Experience
-- Achievements
-- Evidence
+I am really good at recognising other people's emotions and combine that with a great listening skills, you have a person ready to develop meaningful and trustworthy relationships with the clients and other stakeholders of a project, and not only. That has helped me many times in my previous role, where the customers felt I knew them and so it was easier for us to solve the issues as they were sure they could rely on both my word and expertise at the same time.
 
 #### Organisation and focus
 
@@ -65,15 +61,13 @@ Having worked as a project manager for three years, organisation and time manage
 #### Makers Academy (Dec 2016 to March 2017)
 _Intensive coding bootcamp_
 
-* Curiosity and hungry passion for code
-* Independent learner and problem-solver
+* Pair-programming, teamwork and Agile development
+* Passion for code and learning
 * TDD and BDD
 * OOD and SOLID
-* Pair-programming, teamwork and Agile development
 * RESTful APIs
 * Technologies used: Ruby, Rails, JavaScript, HTML/CSS, Sass, Postgres, DataMapper, Active Record
 * Testing frameworks: RSpec, Capybara, Jasmine
-
 
 #### Code First Girls (Oct 2015 to April 2016)
 
@@ -86,7 +80,6 @@ _Intensive coding bootcamp_
 
 * Translation and Technical Communication
 * Except for the linguistic skills, I developed the appreciation towards modern technology in the translation industry.
-
 
 #### Any other qualifications
 
