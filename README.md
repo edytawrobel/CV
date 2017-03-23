@@ -23,13 +23,17 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 * A room booking app for the workplace
 * Ruby on Rails, PostgreSQL, JS(jQuery), HTML(haml), Rspec-rails, Capybara, Bootstrap, SimpleCalendar, Datetimepicker
 
+#### Makers Rooms | [repo]()
+* Amazon Alexa Skill - a voice-driven room booking and occupancy app
+* Alexa-App-Server, AWS Lambda, DynamoDB, Chai, Mocha, JavaScript, Cloudwatch, Node.js
+
 ## Technical Skills
 | Start date | Specialisations                                            |
 |:----------|:-----------------------------------------------------------|
 | 2017      | Ruby, Rspec, Rails, Capybara, Active Record                                 |
 | 2017      | TDD, BDD                                                   |
-| 2017      | Heroku, AWS S3, Paperclip, Devise                                                   |
-| 2017      | Javascript, Jasmine, jQuery                                                  |
+| 2017      | Heroku, AWS S3, Paperclip, Devise, AWS Lambda, Alexa Skills, VUI                           |
+| 2017      | Javascript, Jasmine, jQuery, Node.js, Chai, Mocha                                           |
 | 2017      | Sinatra, PostgreSQL                                                |
 | 2015      | Python, Flask, Tweepi, Requests           |
 | 2015      | HTML, CSS                                                  |
@@ -66,8 +70,8 @@ _Intensive coding bootcamp_
 * TDD and BDD
 * OOD and SOLID
 * RESTful APIs
-* Technologies used: Ruby, Rails, JavaScript, HTML/CSS, Sass, Postgres, DataMapper, Active Record
-* Testing frameworks: RSpec, Capybara, Jasmine
+* Technologies used: Ruby, Rails, JavaScript, Node.js, HTML/CSS, Sass, Postgres, DataMapper, Active Record, DynamoDB
+* Testing frameworks: RSpec, Capybara, Jasmine, Chai, Mocha
 
 #### Code First Girls (Oct 2015 to April 2016)
 
