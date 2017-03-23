@@ -15,11 +15,11 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 * Ruby on Rails, RSpec-Capybara, Active Record, Devise, Paperclip, Factory Girl, AWS S3, Heroku
 
 
-#### Thermostat | [repo](https://github.com/edytawrobel/thermostat_app) | [heroku] (https://thermostat-app-edawu.herokuapp.com/)
+#### Thermostat | [repo](https://github.com/edytawrobel/thermostat_app) | [heroku](https://thermostat-app-edawu.herokuapp.com/)
 * simple thermostat app
 * JavaScript, jQuery, HTML, CSS, Sinatra, Heroku
 
-#### Majordomo | [repo](https://github.com/edytawrobel/majordomo) | [heroku] (https://majordomo-makers.herokuapp.com/)
+#### Majordomo | [repo](https://github.com/edytawrobel/majordomo) | [heroku](https://majordomo-makers.herokuapp.com/)
 * A room booking app for the workplace
 * Ruby on Rails, PostgreSQL, JS(jQuery), HTML(haml), Rspec-rails, Capybara, Bootstrap, SimpleCalendar, Datetimepicker
 
