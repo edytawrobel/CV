@@ -23,7 +23,7 @@ Before and during Makers Academy I have worked on [around 30 projects](https://g
 * A room booking app for the workplace
 * Ruby on Rails, PostgreSQL, JS(jQuery), HTML(haml), Rspec-rails, Capybara, Bootstrap, SimpleCalendar, Datetimepicker
 
-#### Makers Rooms | [repo]()
+#### Makers Rooms | [repo](https://github.com/edytawrobel/AlexaBookEvent)
 * Amazon Alexa Skill - a voice-driven room booking and occupancy app
 * Alexa-App-Server, AWS Lambda, DynamoDB, Chai, Mocha, JavaScript, Cloudwatch, Node.js
 
