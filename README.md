@@ -1,6 +1,6 @@
 ## Edyta Wrobel
 
-edyta.wrobel.willdoit@gmail.com | [Github](https://github.com/edytawrobel) | [Projects](https://github.com/edytawrobel/CV#projects) | [LinkedIn](https://uk.linkedin.com/in/edyta-wrobel-73272664) | [YouTube](https://www.youtube.com/watch?v=E2BUdOy12Oo&list=PLc4BYny7PXeQmo4inKuhZ_rbl5aFWEWGt&index=6) | [Blog](https://edytawrobelblog.wordpress.com/) | [CV PDF](https://github.com/edytawrobel/CV/raw/master/CV_EdytaWrobel.pdf)
+edyta.wrobel.willdoit@gmail.com | [Github](https://github.com/edytawrobel) | [Projects](https://github.com/edytawrobel/CV#projects) | [LinkedIn](https://uk.linkedin.com/in/edyta-wrobel-73272664) | [YouTube](https://www.youtube.com/watch?v=E2BUdOy12Oo&list=PLc4BYny7PXeQmo4inKuhZ_rbl5aFWEWGt&index=6) | [Blog](https://edytawrobelblog.wordpress.com/) 
 
 A former project manager, Women in Tech scholar at Thoughtworks and Makers Academy, learning how to code. An advocate of positive social change through the smart and responsible use of technology, therefore, looking for a role in the environment of the like-mided individuals.
 
